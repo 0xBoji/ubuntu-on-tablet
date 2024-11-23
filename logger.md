@@ -1,0 +1,1 @@
+/config.yaml                                                                  bash: vim: command not found                                                  root@localhost:~/code-server-4.22.1-linux-arm64/bin# cd ~/.config/code-server root@localhost:~/.config/code-server# vim config.yaml                         bash: vim: command not found
