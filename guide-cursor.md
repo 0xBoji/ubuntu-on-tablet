@@ -30,7 +30,7 @@ Add these lines:
 ```
 bind-addr: 0.0.0.0:8080
 auth: password
-password: your_password_here
+password: password
 cert: false
 ```
 ## Step 4: Start Code Server
